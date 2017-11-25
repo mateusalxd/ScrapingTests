@@ -9,5 +9,5 @@ Repository of data scraping tests
 ##### Notes
 - Change `executable_path` to the directory where the driver is located.
 ##### Requisites
-- `# pip install -U selenium`
+- `$ pip install -U selenium`
 - [WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/)
